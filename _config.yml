@@ -105,7 +105,6 @@ deploy:
 - type: git
   repository:
     github: git@github.com:cloudliu01/cloudliu01.github.io.git
-    coding:
   branch: main
 
 

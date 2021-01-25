@@ -106,7 +106,7 @@ deploy:
   repository:
     github: git@github.com:cloudliu01/cloudliu01.github.io.git
     coding:
-  branch: master
+  branch: main
 
 
 live2d:
